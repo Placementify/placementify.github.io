@@ -1,6 +1,6 @@
 # Placementify
 
-Landing page for toolsnippy.com
+Landing page for placementify.com
 
 ## Dependencies
 
