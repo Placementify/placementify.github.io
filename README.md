@@ -1,4 +1,4 @@
-# ToolSnippy.com
+# Placementify
 
 Landing page for toolsnippy.com
 
