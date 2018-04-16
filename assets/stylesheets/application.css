@@ -1,0 +1,41 @@
+/* MAIN STYLESHEET FOR TOOLSNIPPY.COM */
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5 {
+  font-weight: 300;
+}
+
+.text-grey {
+  color: #b7b7b7;
+}
+
+#primary-nav {
+  opacity: 0.95;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.intro {
+  padding-top: 70px;
+  min-height: 80vh;
+  background: #ffffff url("../images/intro-bg.jpg") center fixed;
+}
+
+#intro .btn {
+  border-radius: 25px;
+}
+
+#intro h1, #intro .h1 {
+  font-size: 350%;
+}
